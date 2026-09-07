@@ -16,6 +16,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aditiyadavz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditiyadavz/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -24,6 +25,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditiyadavz/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aditiyadavz/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aditiyadavz/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditiyadavz/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditiyadavz/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
