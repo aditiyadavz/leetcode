@@ -5,6 +5,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditiyadavz/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/aditiyadavz/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aditiyadavz/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aditiyadavz/leetcode/tree/master/0054-spiral-matrix) |
@@ -29,12 +30,14 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aditiyadavz/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aditiyadavz/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aditiyadavz/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
