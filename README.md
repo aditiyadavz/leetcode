@@ -7,6 +7,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditiyadavz/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aditiyadavz/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aditiyadavz/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/aditiyadavz/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aditiyadavz/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditiyadavz/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -55,6 +56,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditiyadavz/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/aditiyadavz/leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditiyadavz/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aditiyadavz/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditiyadavz/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
