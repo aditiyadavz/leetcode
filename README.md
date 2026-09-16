@@ -20,6 +20,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aditiyadavz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditiyadavz/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/aditiyadavz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/aditiyadavz/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -35,6 +36,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditiyadavz/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aditiyadavz/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aditiyadavz/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/aditiyadavz/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditiyadavz/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -50,6 +52,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aditiyadavz/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -129,4 +132,12 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aditiyadavz/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
