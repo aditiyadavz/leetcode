@@ -12,6 +12,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditiyadavz/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditiyadavz/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditiyadavz/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aditiyadavz/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aditiyadavz/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiyadavz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,12 +47,14 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditiyadavz/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aditiyadavz/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditiyadavz/leetcode/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aditiyadavz/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditiyadavz/leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
