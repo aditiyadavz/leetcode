@@ -11,6 +11,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditiyadavz/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aditiyadavz/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/aditiyadavz/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aditiyadavz/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aditiyadavz/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aditiyadavz/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/aditiyadavz/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aditiyadavz/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiyadavz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +124,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aditiyadavz/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditiyadavz/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aditiyadavz/leetcode/tree/master/0860-lemonade-change) |
