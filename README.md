@@ -38,6 +38,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditiyadavz/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aditiyadavz/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/aditiyadavz/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aditiyadavz/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aditiyadavz/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aditiyadavz/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aditiyadavz/leetcode/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Union-Find
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aditiyadavz/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditiyadavz/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aditiyadavz/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/aditiyadavz/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
@@ -169,4 +174,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/aditiyadavz/leetcode/tree/master/0904-fruit-into-baskets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
