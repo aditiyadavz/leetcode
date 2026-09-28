@@ -37,6 +37,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aditiyadavz/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditiyadavz/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditiyadavz/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/aditiyadavz/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -157,6 +158,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aditiyadavz/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditiyadavz/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditiyadavz/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/aditiyadavz/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/aditiyadavz/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -176,6 +178,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/aditiyadavz/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditiyadavz/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
