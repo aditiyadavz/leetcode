@@ -32,6 +32,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/aditiyadavz/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/aditiyadavz/leetcode/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/aditiyadavz/leetcode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/aditiyadavz/leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/aditiyadavz/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -89,6 +90,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditiyadavz/leetcode/tree/master/0002-add-two-numbers) |
+| [0622-design-circular-queue](https://github.com/aditiyadavz/leetcode/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/aditiyadavz/leetcode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -166,6 +169,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aditiyadavz/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/aditiyadavz/leetcode/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
