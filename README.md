@@ -27,6 +27,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditiyadavz/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/aditiyadavz/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/aditiyadavz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/aditiyadavz/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
@@ -123,11 +124,13 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditiyadavz/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/aditiyadavz/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/aditiyadavz/leetcode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aditiyadavz/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
@@ -184,15 +187,21 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aditiyadavz/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/aditiyadavz/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditiyadavz/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aditiyadavz/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aditiyadavz/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditiyadavz/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aditiyadavz/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
