@@ -177,6 +177,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aditiyadavz/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/aditiyadavz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/aditiyadavz/leetcode/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/aditiyadavz/leetcode/tree/master/0901-online-stock-span) |
 ## Counting
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/aditiyadavz/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditiyadavz/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/aditiyadavz/leetcode/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -210,4 +212,12 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/aditiyadavz/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aditiyadavz/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aditiyadavz/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
