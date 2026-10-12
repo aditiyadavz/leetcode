@@ -33,6 +33,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/aditiyadavz/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/aditiyadavz/leetcode/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/aditiyadavz/leetcode/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/aditiyadavz/leetcode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/aditiyadavz/leetcode/tree/master/0860-lemonade-change) |
@@ -77,6 +78,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aditiyadavz/leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aditiyadavz/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/aditiyadavz/leetcode/tree/master/0561-array-partition) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
@@ -146,6 +148,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/aditiyadavz/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/aditiyadavz/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/aditiyadavz/leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/aditiyadavz/leetcode/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Union-Find
@@ -220,4 +223,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/aditiyadavz/leetcode/tree/master/0901-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/aditiyadavz/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
