@@ -47,6 +47,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/aditiyadavz/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3151-special-array-i](https://github.com/aditiyadavz/leetcode/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
