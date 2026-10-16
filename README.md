@@ -39,6 +39,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/aditiyadavz/leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/aditiyadavz/leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/aditiyadavz/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/aditiyadavz/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditiyadavz/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditiyadavz/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/aditiyadavz/leetcode/tree/master/1122-relative-sort-array) |
@@ -70,6 +71,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditiyadavz/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/aditiyadavz/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
@@ -83,6 +85,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aditiyadavz/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aditiyadavz/leetcode/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/aditiyadavz/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/aditiyadavz/leetcode/tree/master/1122-relative-sort-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
