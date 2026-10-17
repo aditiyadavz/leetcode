@@ -34,6 +34,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aditiyadavz/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aditiyadavz/leetcode/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/aditiyadavz/leetcode/tree/master/0565-array-nesting) |
 | [0622-design-circular-queue](https://github.com/aditiyadavz/leetcode/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/aditiyadavz/leetcode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/aditiyadavz/leetcode/tree/master/0860-lemonade-change) |
@@ -238,4 +239,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/aditiyadavz/leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/aditiyadavz/leetcode/tree/master/1122-relative-sort-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/aditiyadavz/leetcode/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
