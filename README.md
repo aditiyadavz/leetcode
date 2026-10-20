@@ -46,6 +46,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/aditiyadavz/leetcode/tree/master/1122-relative-sort-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditiyadavz/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/aditiyadavz/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/aditiyadavz/leetcode/tree/master/1528-shuffle-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/aditiyadavz/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -228,6 +229,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/aditiyadavz/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1528-shuffle-string](https://github.com/aditiyadavz/leetcode/tree/master/1528-shuffle-string) |
 ## Monotonic Stack
 |  |
 | ------- |
