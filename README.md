@@ -112,6 +112,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditiyadavz/leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/aditiyadavz/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aditiyadavz/leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
@@ -151,6 +152,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aditiyadavz/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aditiyadavz/leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3925-concatenate-array-with-reverse](https://github.com/aditiyadavz/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -228,6 +230,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aditiyadavz/leetcode/tree/master/0043-multiply-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditiyadavz/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1528-shuffle-string](https://github.com/aditiyadavz/leetcode/tree/master/1528-shuffle-string) |
 ## Monotonic Stack
