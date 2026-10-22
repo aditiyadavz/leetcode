@@ -73,6 +73,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aditiyadavz/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aditiyadavz/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditiyadavz/leetcode/tree/master/0088-merge-sorted-array) |
+| [0443-string-compression](https://github.com/aditiyadavz/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/aditiyadavz/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -232,6 +233,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/aditiyadavz/leetcode/tree/master/0043-multiply-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditiyadavz/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/aditiyadavz/leetcode/tree/master/0443-string-compression) |
 | [1528-shuffle-string](https://github.com/aditiyadavz/leetcode/tree/master/1528-shuffle-string) |
 ## Monotonic Stack
 |  |
