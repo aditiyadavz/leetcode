@@ -62,6 +62,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditiyadavz/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/aditiyadavz/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiyadavz/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0859-buddy-strings](https://github.com/aditiyadavz/leetcode/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/aditiyadavz/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditiyadavz/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/aditiyadavz/leetcode/tree/master/1122-relative-sort-array) |
@@ -234,6 +235,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aditiyadavz/leetcode/tree/master/0043-multiply-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditiyadavz/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/aditiyadavz/leetcode/tree/master/0443-string-compression) |
+| [0859-buddy-strings](https://github.com/aditiyadavz/leetcode/tree/master/0859-buddy-strings) |
 | [1528-shuffle-string](https://github.com/aditiyadavz/leetcode/tree/master/1528-shuffle-string) |
 ## Monotonic Stack
 |  |
