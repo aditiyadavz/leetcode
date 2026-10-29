@@ -77,6 +77,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/aditiyadavz/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aditiyadavz/leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/aditiyadavz/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/aditiyadavz/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiyadavz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aditiyadavz/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
@@ -237,6 +238,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/aditiyadavz/leetcode/tree/master/0443-string-compression) |
 | [0859-buddy-strings](https://github.com/aditiyadavz/leetcode/tree/master/0859-buddy-strings) |
 | [1528-shuffle-string](https://github.com/aditiyadavz/leetcode/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/aditiyadavz/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Monotonic Stack
 |  |
 | ------- |
