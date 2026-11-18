@@ -260,4 +260,5 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1045-customers-who-bought-all-products](https://github.com/aditiyadavz/leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/aditiyadavz/leetcode/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
