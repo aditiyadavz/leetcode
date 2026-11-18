@@ -256,4 +256,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/aditiyadavz/leetcode/tree/master/0565-array-nesting) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/aditiyadavz/leetcode/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
